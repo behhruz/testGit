@@ -16,6 +16,7 @@ const App = () => {
       <div className='flex gap-3 h-full'>
         <Sidebar />
         <Main/>
+        <h1>Behruz jonka</h1>
       </div>
     </div>
   )
